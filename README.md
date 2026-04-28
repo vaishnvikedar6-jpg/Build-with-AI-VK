@@ -1,5 +1,6 @@
 # Build-with-AI-VK
 https://vaishnvikedar6-jpg.github.io/Build-with-AI-VK/
+
 FairLens AI: Eradicating the "Black Box" in Artificial Intelligence
 
 FairLens AI is a revolutionary Transparency Layer designed to eliminate the "Black Box" problem in modern Artificial Intelligence. In high-stakes sectors like banking, hiring, and legal systems, AI models often act as invisible gatekeepers by scaling human prejudices hidden in historical data without accountability. FairLens AI provides the tools to detect, explain, and mitigate these biases effectively.
